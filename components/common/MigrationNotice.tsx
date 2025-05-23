@@ -68,8 +68,8 @@ const MigrationNotice: React.FC = () => {
               variant="body2"
               className="text-s-text mb-6 pl-7 text-xs sm:text-sm"
             >
-              Thank you for your patience as we migrate ATL5D to Lens V3
-              and Lens Chain. This process may take some time, but we're working
+              Thank you for your patience as we migrate ATL5D to Lens V3 and
+              Lens Chain. This process may take some time, but we're working
               diligently to bring you an improved experience.
             </Typography>
 
@@ -86,10 +86,9 @@ const MigrationNotice: React.FC = () => {
               variant="body2"
               className="text-s-text pl-7 text-xs sm:text-sm"
             >
-              While there was a temporary slowdown in development, ATL5D
-              will be returning with a bang! We're building exciting new
-              features and improvements that will enhance your experience
-              significantly.
+              While there was a temporary slowdown in development, ATL5D will be
+              returning with a bang! We're building exciting new features and
+              improvements that will enhance your experience significantly.
             </Typography>
           </div>
 
