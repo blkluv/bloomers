@@ -19,11 +19,7 @@
     },
     "project": "./tsconfig.json"
   },
-  "plugins": [
-    "react",
-    "@typescript-eslint",
-    "prettier"
-  ],
+  "plugins": ["react", "@typescript-eslint", "prettier"],
   "settings": {
     "react": {
       "version": "detect"
@@ -36,13 +32,13 @@
     // Next.js specific
     "@next/next/no-html-link-for-pages": "error",
     "@next/next/no-img-element": "warn",
-    
+
     // React
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/no-unescaped-entities": "off",
     "react/no-unknown-property": ["error", { "ignore": ["css"] }],
-    
+
     // TypeScript
     "@typescript-eslint/no-explicit-any": "warn",
     "@typescript-eslint/no-unused-vars": [
@@ -63,7 +59,7 @@
         "ts-check": false
       }
     ],
-    
+
     // Prettier
     "prettier/prettier": [
       "error",
@@ -75,7 +71,7 @@
         "arrowParens": "always"
       }
     ],
-    
+
     // JavaScript
     "no-prototype-builtins": "off",
     "no-undef": "off",
