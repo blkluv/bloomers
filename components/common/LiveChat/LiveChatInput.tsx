@@ -476,7 +476,7 @@ const LiveChatInput = ({
             </div>
 
             <Tooltip
-              title="5% is allocated to BloomersTV to maintain the project"
+              title="5% is allocated to ATL5D to maintain the project"
               placement="top"
               open={open}
               disableFocusListener

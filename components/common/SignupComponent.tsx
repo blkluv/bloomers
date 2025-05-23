@@ -85,7 +85,7 @@ const SignupComponent = ({
     <div className="sm:px-0 px-3 py-2">
       <div className="text-2xl font-bold">Create your account</div>
       <div className="text-s-text font-semibold text-xs mt-0.5 mb-4">
-        Streaming & Live Chat on BloomersTV requires a Lens Account
+        Streaming & Live Chat on ATL5D requires a Lens Account
       </div>
 
       {address && (

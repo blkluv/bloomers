@@ -24,7 +24,7 @@ const MigrationNotice: React.FC = () => {
           <div className="mb-4 relative h-16 w-16 sm:h-20 sm:w-20">
             <Image
               src="/apple-icon.png"
-              alt="BloomersTV Logo"
+              alt="ATL5D Logo"
               layout="fill"
               objectFit="contain"
               className="rounded-full"
@@ -39,7 +39,7 @@ const MigrationNotice: React.FC = () => {
             variant="h4"
             className="text-center font-bold text-p-accent mb-2 text-xl sm:text-2xl"
           >
-            BloomersTV is Upgrading to Lens V3
+            ATL5D is Upgrading to Lens V3
           </Typography>
 
           <div className="flex items-center justify-center gap-2 mb-4">
@@ -68,7 +68,7 @@ const MigrationNotice: React.FC = () => {
               variant="body2"
               className="text-s-text mb-6 pl-7 text-xs sm:text-sm"
             >
-              Thank you for your patience as we migrate BloomersTV to Lens V3
+              Thank you for your patience as we migrate ATL5D to Lens V3
               and Lens Chain. This process may take some time, but we're working
               diligently to bring you an improved experience.
             </Typography>
@@ -86,7 +86,7 @@ const MigrationNotice: React.FC = () => {
               variant="body2"
               className="text-s-text pl-7 text-xs sm:text-sm"
             >
-              While there was a temporary slowdown in development, BloomersTV
+              While there was a temporary slowdown in development, ATL5D
               will be returning with a bang! We're building exciting new
               features and improvements that will enhance your experience
               significantly.
@@ -167,7 +167,7 @@ const MigrationNotice: React.FC = () => {
         variant="caption"
         className="mt-6 sm:mt-8 text-s-text/60 text-xs"
       >
-        &copy; {new Date().getFullYear()} BloomersTV • All rights reserved
+        &copy; {new Date().getFullYear()} ATL5D • All rights reserved
       </Typography>
     </div>
   )

@@ -127,7 +127,7 @@ const ChatOptions = ({
 
           {optionAccount && (
             <div className="text-sm text-s-text font-semibold">
-              Chat Messages are removed just from this bloomerstv chat and
+              Chat Messages are removed just from this ATL5D chat and
               corresponding Lens Comments can't be removed.
             </div>
           )}

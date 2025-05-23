@@ -9,18 +9,18 @@ declare global {
 
 export const metadata: Metadata = {
   manifest: '/manifest.json', // we are accessing our manifest file here
-  title: 'BloomersTV',
+  title: 'ATL5D',
   description: 'Live Streaming platform on Lens.',
   icons: [
     { rel: 'icon', url: 'https://bloomers.tv/icon.png' },
     { rel: 'apple-touch-icon', url: 'https://bloomers.tv/apple-icon.png' }
   ],
   openGraph: {
-    title: 'BloomersTV',
+    title: 'ATL5D',
     description: 'Live Streaming platform on Lens.',
     type: 'profile',
-    siteName: 'BloomersTV',
-    url: 'https://bloomers.tv',
+    siteName: 'ATL5D',
+    url: 'https://atl5d.com',
     images: [
       // logo image
       {

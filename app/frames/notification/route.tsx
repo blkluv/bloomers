@@ -64,10 +64,10 @@ export const POST = frames(async (ctx) => {
                 </div>
                 <div tw="text-3xl text-gray-500 mb-4">
                   You will also recieve browser notifications if you have
-                  enabled them on https://bloomers.tv website.
+                  enabled them on https://atl5d.com website.
                 </div>
                 <div tw="text-3xl text-gray-500 mb-4">
-                  Recommend to install BloomersTV PWA on your mobile device &
+                  Recommend to install ATL5D PWA on your mobile device &
                   enable notifications.
                 </div>
               </div>

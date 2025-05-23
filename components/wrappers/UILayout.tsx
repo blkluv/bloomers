@@ -217,7 +217,7 @@ const UILayoutPage = ({ children }: { children: React.ReactNode }) => {
               onOpen={() => setShowInstallPrompt(true)}
               open={showInstallPrompt}
               Icon={<InstallMobileIcon />}
-              title="Install BloomersTV on your mobile"
+              title="Install ATL5D on your mobile"
             >
               <div className="px-4 pb-4 pt-2 space-y-6">
                 <div className="font-bold text-2xl items-center">
@@ -227,7 +227,7 @@ const UILayoutPage = ({ children }: { children: React.ReactNode }) => {
                   Add To Home Screen
                 </div>
                 <div className="-translate-y-4 text-s-text text-sm">
-                  Install BloomersTV on your mobile for the best experience.
+                  Install ATL5D on your mobile for the best experience.
                 </div>
 
                 <div className="centered -translate-y-4 relative">

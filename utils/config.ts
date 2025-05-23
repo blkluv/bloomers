@@ -1,11 +1,11 @@
-export const APP_NAME = 'BloomersTV'
-export const APP_LINK = 'https://bloomers.tv'
-export const APP_ID = 'bloomers.tv'
+export const APP_NAME = 'ATL5D'
+export const APP_LINK = 'https://atl5d.com'
+export const APP_ID = 'a'
 export const STS_TOKEN_URL = process.env.NEXT_PUBLIC_STS_TOKEN_URL
 export const EVER_REGION = 'us-west-2'
 
 export const useOnlyPWAOnMobile = false
-export const CREATOR_EMAIL = 'devenrathodrd@gmail.com'
+export const CREATOR_EMAIL = 'hi@atl5d.com'
 
 export const isMainnet = process.env.NEXT_PUBLIC_LENS_MODE
   ? process.env.NEXT_PUBLIC_LENS_MODE === 'mainnet'
@@ -239,6 +239,6 @@ export const SuperFluidInfo = {
 export const hideAccountAddresses: string[] = []
 
 export const NEXT_PUBLIC_VAPID_KEY =
-  'BDv44ZwY7G3E1fgEuHeiw74cda-LG9gOFwTLFaD2ArveOdd3meLf37noJbztWUeS8GFSR59SjRpYToF3oZrG1dE'
+  'BAI8RroQZTgljhA3ohJH6V8mZOR5YiuNJMygmxoNQqYgy_EY2YoAsqkCuCh5M2Me1X5n4pk1F996Y1cWhyteZm0'
 
 export const DEFAULT_THEME = 'light'

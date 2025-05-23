@@ -62,7 +62,7 @@ const ContributeDiv = () => {
         <div className="absolute z-20 top-0 right-0 left-0 bottom-0 flex flex-col bg-transparent text-white items-center justify-between p-3">
           <div className="px-3 centered-col gap-y-2">
             <div className="text-lg font-extrabold">
-              Support BloomersTV on Gitcion Grants Round 22
+              Support ATL5D on Gitcion Grants Round 22
             </div>
             <div className="text-xs font-normal">
               Your contribution of even just $1 will be matched, helping to
